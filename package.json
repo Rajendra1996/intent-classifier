@@ -1,13 +1,14 @@
 {
   "name": "intent-classifier",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "NLU Classifier with support option for openAI",
   "main": "index.js",
   "scripts": {
     "test": "jest --coverage",
     "build": "node index.js"
   },  
-  "author": "",
+  "keywords": ["intent", "classification", "nlp", "ai", "chatbot", "machine-learning"],
+  "author": "Rajendra Prasad Baral",
   "license": "MIT",
   "dependencies": {
     "dotenv": "^16.4.7",
